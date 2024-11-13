@@ -56,8 +56,8 @@ const Dashboard = () =>{
             <Row>
                 <Col>
                 <div>
-                <h3 className="text-center" style={{ color: 'green' }}>SJ Kumar & Co Pvt Ltd</h3>
-                <h4 className="text-center" style={{ color: 'orange' }}>Branches : Kumbakonam, Chennai & USA</h4>
+                <h3 className="text-center" style={{ color: 'green' }}>A Britto & Co Pvt Ltd</h3>
+                <h4 className="text-center" style={{ color: 'orange' }}>Branches : Dindigul, Chennai & London</h4>
                 </div>
                 <Table>
                     <thead>
